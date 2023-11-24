@@ -1,0 +1,221 @@
+
+
+
+.prow {
+  display: flex;
+}
+
+/* Create four equal columns that sits next to each other */
+.pcolumn {
+  flex: 20%;
+  padding: 10px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 200px;
+  /*min-height:445px;*/
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.pname{
+    min-height:60px;
+}
+
+.ptitle {
+  color: grey;
+  font-size: 18px;
+  background-color: inherit;
+  padding:5px;
+  min-height:120px;
+}
+
+.panel{
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  font-weight: bold;
+  background-color: #29a2d6;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 24px;
+}
+
+.col-container {
+  display: table;  
+  width: 100%;  
+/*  border: 1px solid;
+  border-color: red;*/
+  height: auto;
+}
+
+/*.scolumn {
+  float: left;
+  width: 20%;
+  padding: 20px;
+  border: 1px solid;
+  display: table-cell;  Make elements inside the container behave like table cells 
+}*/
+
+.scolumn-33 {
+  float: left;
+  width: 20%;
+/*  padding: 20px;*/
+/*  border: 1px solid;
+  border-color: green;*/
+/*  display: table-cell;  Make elements inside the container behave like table cells */
+/*  height: 100%;*/
+  text-align: center;
+}
+
+.rowbreak {
+   display: table;  
+  width: 100%;
+/*  padding: 20px;*/
+/*  border: 1px solid;
+  border-color: black;*/
+/*  display: table-cell;  Make elements inside the container behave like table cells */
+/*  height: 100%;*/
+  height: 10px;
+}
+
+.rowbreak-big {
+   display: table;  
+  width: 100%;
+/*  padding: 20px;*/
+/*  border: 1px solid;
+  border-color: black;*/
+/*  display: table-cell;  Make elements inside the container behave like table cells */
+/*  height: 100%;*/
+  height: 20px;
+}
+
+.scolumn-66 {
+  float: left;
+  width: 80%;
+  padding: 10px;
+/*  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);*/
+  border-radius: 7px;
+/*  border: 1px solid;
+  border-color: blue;*/
+  background-color: #E7E9F8;
+  text-align: center;
+/*  display: table-cell;  Make elements inside the container behave like table cells */
+/*height: 100%;*/
+}
+
+
+.stitle{
+    color: #003366;
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.sstitle{
+    color: #003366;
+    font-weight: bold;
+    font-size: 18px;
+}
+.ssstitle{
+    color: #003366;
+    font-size: 18px;
+    font-weight: 400;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.stime{
+    color: #003366;
+    font-weight: 500;
+    font-size: 18px;
+/*    padding: 10px;*/
+}
+
+.sdate{
+    color: #266DD2;
+    font-weight: bold;
+    font-size: 24px;
+/*    padding: 10px;*/
+}
+
+hr{
+        height: 1px;
+        background-color: #ccc;
+        border: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.panel{*/
+/*  border: none;*/
+/*  outline: 0;*/
+/*  display: inline-block;*/
+/*  padding: 8px;*/
+/*  color: white;*/
+/*  font-weight: bold;*/
+/*  background-color: #29a2d6;*/
+/*  text-align: center;*/
+/*  cursor: pointer;*/
+/*  width: 100%;*/
+/*  font-size: 24px;*/
+/*}*/
+
+/*.prow {*/
+/*  display: flex;*/
+/*}*/
+
+/*.pcolumn {*/
+/*  flex: 25%;*/
+/*  padding: 10px;*/
+/*}*/
+
+.pcard {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  max-width: 200px;
+  /*min-height:445px;*/
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  padding: 16px 16px 8px 16px; /*top right bottom left */
+}
+
+.cname{
+    font-size: 20px;
+    color:#003366;
+    min-height:45px;
+}
+
+.ctitle {
+  color: grey;
+  font-size: 18px;
+  background-color: inherit;
+  /*padding:5px;*/
+  min-height:60px;
+}
+
+
+
+.srow {
+  display: flex;
+}
+
+.scolumn {
+  flex: 33.33%;
+  padding: 5px;
+}
