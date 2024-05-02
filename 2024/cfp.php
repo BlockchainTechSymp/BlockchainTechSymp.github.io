@@ -23,56 +23,41 @@ includeMenu();
 <p>We encourage connection to the Canadian context when possible.</p>
 
 <h3 style="color:#003366">Topics</h3>
-<p>We welcome submissions in any area of research related to blockchains and DLTs and from any disciplinary perspective. <b>We particularly welcome talks on real-life implementations and developments</b>. Some examples of topics that would be of particular interest include: </p>
+<p>We welcome submissions in any area of research related to blockchains and from any disciplinary perspective. <b>We particularly welcome talks on real-life implementations and developments</b>. Some examples of topics that would be of particular interest include: </p>
 <dl>
-    <dd>Digital Trust</dd>
-    <dd>Enterprise/Infrastructure Blockchain</dd>
-    <dd>Tokenization of Value (Cryptocurrencies and NFTs)</dd>
-    <dd>Core Technologies</dd>
-    <dd>Long-term Security</dd>
+    <dd>Digital trust</dd>
+    <dd>Enterprise/infrastructure blockchain</dd>
+    <dd>Tokenization of value (cryptocurrencies and NFTs)</dd>
+    <dd>Core technologies</dd>
+    <dd>Long-term security</dd>
     <dd>Long term preservation of assets</dd> 
-    <dd>Social Impacts, History, and Political Influences</dd>
-    <dd>Law, Government, and Regulation</dd>
-    <dd>Auditing and Accounting</dd>
+    <dd>Social impacts, history, and political Influences</dd>
+    <dd>Law, government, and regulation</dd>
+    <dd>Auditing and accounting</dd>
     <dd>Privacy</dd>
-    <dd>Governance/Blockchain Ecosystems</dd>
-    <dd>Cryptographic foundations and primitives for DLT</dd>
-    <dd>Applications (e.g. identity, supply chain, health)</dd>
+    <dd>Governance and bockchain ecosystems</dd>
+    <dd>Cryptographic foundations and primitives</dd>
+    <dd>Use-Cases (e.g. identity, supply chain, health)</dd>
+    <dd>Applications to machine learning</dd>
 </dl>
 
-<h3 style="color:#003366">What to submit</h3>
+<h3 style="color:#003366">What to Submit</h3>
 
-<ul style="margin-top: 0px;">
-<li>A 1 page summary covering the following:
-<ul>
-    <li>Title of talk</li>
-    <li>Speaker's name, affiliation, and collaborators</li>
-    <li>Abstract of the talk that includes  the main points </li>
-</ul>   </li>
-
-<li>Together with:
-<ul>
-    <li>Supplementary materials that would  include, paper, slide deck, and software (in the form of link to an accessible repository)  to  support the 
-        abstract </li>
-</ul></li>
-</ul>
-<p>The submission should be in PDF format. The submission server is: TBA </p>
+<p>A short description of what you will talk about: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdotRoxJVNeC8tBHojJyzNW98_Ad98NXAV-_u8MPykJK3ye9Q/viewform?usp=sf_link" target="_blank">Submit via Google Forms</a>. Submissions after the deadline will be considered as scheduling allows.
 
 <h3 style="color:#003366">Important Dates</h3>
 
 <dl>
-    <dd>Talk Submission Deadline: TBA  [<a href="https://easychair.org/" target="_blank">Submit via EasyChair</a>]</dd>
-    <dd>Author Notification: TBA </dd>
+    <dd>Talk Submission Deadline: May 17, 2024  </dd>
 </dl>
 
-<p>We will not provide detailed feedback and peer-review of your submission.  The submission will be reviewed by program committee members with relevant 
-    background, and the decision will be conveyed with a short comment and  a decision as to of whether we will include your talk or not.</p>
+<p>We will not provide detailed feedback or peer-review of your submission.</p>
 
 
 
-<h3 style="color:#003366">Program Committee</h3>
+<!--<h3 style="color:#003366">Program Committee</h3>
 
-TBA
+TBA-->
 
 <!--
 <dl>
