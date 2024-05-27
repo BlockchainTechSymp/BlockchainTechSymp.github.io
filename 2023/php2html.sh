@@ -1,12 +1,15 @@
 #!/bin/sh
 
-php academic.php > academic.html
-php courses.php > courses.html
-php index.php > index.html 
-php students.php > students.html
-php bio.php > bio.html
-php hiring.php > hiring.html
-php resources.php > resources.html
+php cfp.php > cfp.html
+php codeofconduct.php > codeofconduct.html
+php contact.php > contact.html
+php index.php > index.html
+php invited.php > invited.html
+php organization.php > organization.html
+php panels.php > panels.html
+php program.php > program.html
+php registration.php > registration.html
+php sponsors.php > sponsors.html
 php talks.php > talks.html
 
-git commit -a -m "php > html"
+
