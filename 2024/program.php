@@ -93,16 +93,26 @@ includeMenu();
     <div class="scolumn-66">
         <div class="stitle">Canadian Scholars</div><br/> 
         <div class="ssstitle" style="border-bottom: 0px">Lili Wei (McGill University)</div>
-    </div> 
-    <div class="scolumn-66">
+
         <div class="ssstitle" style="border-bottom: 0px">Majid Khabbazian (University of Alberta)</div>
-    </div> 
-    <div class="scolumn-66">
+
         <div class="ssstitle" style="border-bottom: 0px">Mariam Humayun (University of Ottawa)</div>
     </div> 
 </div>
 
 <div class="rowbreak"></div>
+
+<div class="col-container">
+    <div class="scolumn-33">
+        <div class="stime">14:45 – 15:00</div>
+    </div>
+    <div class="scolumn-66">
+        <div class="stitle">Break</div><br/> 
+    </div> 
+</div>
+
+<div class="rowbreak"></div>
+
 
 <div class="col-container">
     <div class="scolumn-33">
