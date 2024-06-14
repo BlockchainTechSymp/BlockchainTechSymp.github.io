@@ -7,7 +7,7 @@ includeMenu();
 <div class="mainbar">
 
 <font color=#003366 size=+2><b>The 6th Blockchain Technology Symposium</b></font>
-<br><font color=#003366><b>26-27 June 2024</b></font>
+<br><font color=#003366><b>26 June 2024</b></font>
 <br><font color=#003366><b>Virtual and free</b></font>
 
 <p style="margin-top: 10px;">The Blockchain Technology Symposium (BTS), held annually in Canada, is a forum where academic researchers, industry professionals, and decision makers come together to present recent advancements, discuss adoption barriers, tackle common challenges, and explore future roadmaps surrounding blockchain and its related technologies such as consensus algorithms, smart contracts, cryptocurrencies, and distributed ledger technologies. The aim is to bring these communities closer to address the challenges and seize the opportunities brought forward by this promising technology.</p>
@@ -34,6 +34,11 @@ includeMenu();
 </colgroup>
 
 <tbody>
+  <tr>
+    <td class="tg-tf2e">12 June 2024</td>
+    <td class="tg-tf2e"></td>
+    <td class="tg-pcvp">Preliminary program.</td>    
+  </tr>
   <tr>
     <td class="tg-tf2e">2 May 2024</td>
     <td class="tg-tf2e"></td>
