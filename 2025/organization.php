@@ -10,6 +10,9 @@ includeMenu();
 
 <h1 style="text-align:center; color:#003366;">Organization</h1>
 
+
+TBD
+<!--
 <div class="panel">Steering committee</div>
 <div class="prow">
 
@@ -51,9 +54,9 @@ includeMenu();
     
     
 </div>
+-->
 
 <!--
-
 <br><br>
 <div class="panel">Program committee</div>   
 

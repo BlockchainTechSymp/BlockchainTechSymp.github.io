@@ -7,7 +7,7 @@ includeMenu();
 <div class="mainbar">
 
 <font color=#003366 size=+2><b>The 7th Blockchain Technology Symposium</b></font>
-<br><font color=#003366><b>July 9 and 10, 2025</b></font>
+<br><font color=#003366><b>July 9 - 10, 2025</b></font>
 <br><font color=#003366><b>UBC LIFE Building 2201, University of British Columbia, Vancouver, Canada</b></font>
 
 <p style="margin-top: 10px;">The Blockchain Technology Symposium (BTS), held annually in Canada, is a forum where academic researchers, industry professionals, and decision makers come together to present recent advancements, discuss adoption barriers, tackle common challenges, and explore future roadmaps surrounding blockchain and its related technologies such as consensus algorithms, smart contracts, cryptocurrencies, and distributed ledger technologies. The aim is to bring these communities closer to address the challenges and seize the opportunities brought forward by this promising technology.</p>
@@ -35,7 +35,7 @@ includeMenu();
 
 <tbody>
   <tr>
-    <td class="tg-tf2e">July 9 and 10, 2025</td>
+    <td class="tg-tf2e">July 9 - 10, 2025</td>
     <td class="tg-tf2e"></td>
     <td class="tg-pcvp">Call for Presentation.</td>    
   </tr>
