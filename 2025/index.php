@@ -35,7 +35,7 @@ includeMenu();
 
 <tbody>
   <tr>
-    <td class="tg-tf2e">July 9 - 10, 2025</td>
+    <td class="tg-tf2e">Feb 25, 2025</td>
     <td class="tg-tf2e"></td>
     <td class="tg-pcvp">Call for Presentation.</td>    
   </tr>
