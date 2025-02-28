@@ -38,7 +38,7 @@ includeMenu();
         <div class="stime">9:50 – 10:00 AM</div>
     </div>
     <div class="scolumn-66">
-        <div class="stitle">Q&A Session</div>
+        <div class="stitle">Q&A Session and Morning Break</div>
         <div class="sstitle">An opportunity for audience interaction with keynote speakers</div>
     </div> 
 </div>
@@ -55,23 +55,12 @@ includeMenu();
     </div> 
 </div>
 
-<div class="rowbreak"></div>
-
-<div class="col-container">
-    <div class="scolumn-33">
-        <div class="stime">10:30 – 10:45 AM</div>
-    </div>
-    <div class="scolumn-66">
-        <div class="stitle">Q&A Session and Morning Break</div>
-        <div class="sstitle">Refreshments provided</div>
-    </div> 
-</div>
 
 <div class="rowbreak"></div>
 
 <div class="col-container">
     <div class="scolumn-33">
-        <div class="stime">10:45 – 11:45 AM</div>
+        <div class="stime">10:30 – 11:30 AM</div>
     </div>
     <div class="scolumn-66">
         <div class="stitle">Short Research Talks</div>
@@ -79,27 +68,17 @@ includeMenu();
     </div> 
 </div>
 
-<div class="rowbreak"></div>
 
-<div class="col-container">
-    <div class="scolumn-33">
-        <div class="stime">11:45 – 12:00 PM</div>
-    </div>
-    <div class="scolumn-66">
-        <div class="stitle">Midday Break</div>
-        <div class="sstitle">A brief break before the panel discussion</div>
-    </div> 
-</div>
 
 <div class="rowbreak"></div>
 
 <div class="col-container">
     <div class="scolumn-33">
-        <div class="stime">12:00 – 1:00 PM</div>
+        <div class="stime">11:30 – 1:00 PM</div>
     </div>
     <div class="scolumn-66">
-        <div class="stitle">Use Cases Panel</div>
-        <div class="sstitle">Panel discussion with representatives from various blockchain projects</div>
+        <div class="stitle">Lunch & Open Discussion</div>
+        <div class="sstitle">Lunch time and open discussion to facilitate networking</div>
     </div> 
 </div>
 
@@ -110,8 +89,8 @@ includeMenu();
         <div class="stime">1:00 – 2:00 PM</div>
     </div>
     <div class="scolumn-66">
-        <div class="stitle">Lunch & Open Discussion</div>
-        <div class="sstitle">Lunch served, with an open discussion to facilitate networking</div>
+        <div class="stitle">Use Cases Panel</div>
+        <div class="sstitle">Panel discussion with representatives from various blockchain projects</div>
     </div> 
 </div>
 
