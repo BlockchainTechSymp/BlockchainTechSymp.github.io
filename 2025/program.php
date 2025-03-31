@@ -50,7 +50,7 @@ includeMenu();
         <div class="stime">10:00 – 10:30 AM</div>
     </div>
     <div class="scolumn-66">
-        <div class="stitle">General Keynote; Invited Talk</div>
+        <div class="stitle">Invited Talk</div>
         <div class="sstitle">Delivered by a leading expert on blockchain research and education</div>
     </div> 
 </div>
