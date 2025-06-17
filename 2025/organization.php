@@ -11,7 +11,74 @@ includeMenu();
 <h1 style="text-align:center; color:#003366;">Organization</h1>
 
 
-TBD
+<div class="panel">General Co-Chairs</div>
+<div class="prow">
+    <div class="pcolumn">
+        <div class="card">
+          <img id="currentPhoto" src="images/organizers/chen-feng.jpeg" onerror="this.onerror=null; 
+             this.src='images/panel/default.jpeg'" alt="Chen Feng" width="100%">
+          <p class="cname" style="min-height: 95px">Chen Feng</p>
+          <p class="ctitle" style="min-height: 70px">University of British Columbia</p>
+        </div>
+    </div>
+    
+    <div class="pcolumn">
+        <div class="card">
+          <img id="currentPhoto" src="images/organizers/victoria-lemieux.jpeg" onerror="this.onerror=null; 
+             this.src='images/panel/default.jpeg'" alt="Victoria Lemieux" width="100%">
+          <p class="cname" style="min-height: 95px">Victoria Lemieux</p>
+          <p class="ctitle" style="min-height: 70px">University of British Columbia</p>
+        </div>
+    </div>
+    
+    <div class="pcolumn">
+        <div class="card">
+          <img id="currentPhoto" src="images/organizers/majid-khabbazian.jpeg" onerror="this.onerror=null; 
+             this.src='images/panel/default.jpeg'" alt="Majid Khabbazian" width="100%">
+          <p class="cname" style="min-height: 95px">Majid Khabbazian</p>
+          <p class="ctitle" style="min-height: 70px">University of Alberta</p>
+        </div>
+    </div>
+</div>
+
+<br><br>
+<div class="panel">Program Chair</div>
+<div class="prow">
+    <div class="pcolumn">
+        <div class="card">
+          <img id="currentPhoto" src="images/organizers/zehua-wang.jpeg" onerror="this.onerror=null; 
+             this.src='images/panel/default.jpeg'" alt="Zehua (David) Wang" width="100%">
+          <p class="cname" style="min-height: 95px">Zehua (David) Wang</p>
+          <p class="ctitle" style="min-height: 70px">University of British Columbia</p>
+        </div>
+    </div>
+</div>
+
+<br><br>
+<div class="panel">Financial Chair</div>
+<div class="prow">
+    <div class="pcolumn">
+        <div class="card">
+          <img id="currentPhoto" src="images/organizers/hassan-khodaiemehr.jpeg" onerror="this.onerror=null; 
+             this.src='images/panel/default.jpeg'" alt="Hassan Khodaiemehr" width="100%">
+          <p class="cname" style="min-height: 95px">Hassan Khodaiemehr</p>
+          <p class="ctitle" style="min-height: 70px">University of British Columbia</p>
+        </div>
+    </div>
+</div>
+
+<br><br>
+<div class="panel">Webmaster</div>
+<div class="prow">
+    <div class="pcolumn">
+        <div class="card">
+          <img id="currentPhoto" src="images/organizers/saeid-yazdinejad.jpeg" onerror="this.onerror=null; 
+             this.src='images/panel/default.jpeg'" alt="Saeid Yazdinejad" width="100%">
+          <p class="cname" style="min-height: 95px">Saeid Yazdinejad</p>
+          <p class="ctitle" style="min-height: 70px">University of British Columbia</p>
+        </div>
+    </div>
+</div>
 <!--
 <div class="panel">Steering committee</div>
 <div class="prow">
