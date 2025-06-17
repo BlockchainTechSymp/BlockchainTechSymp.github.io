@@ -39,6 +39,11 @@ includeMenu();
     <td class="tg-tf2e"></td>
     <td class="tg-pcvp"><a href="https://blockchainsymposium.ca/2025/cfp.html">Call for Presentation</a></td>    
   </tr>
+  <tr>
+    <td class="tg-tf2e">June 16, 2025</td>
+    <td class="tg-tf2e"></td>
+    <td class="tg-pcvp"><a href="https://blockchainsymposium.ca/2025/registration.html">Registration open</a></td>    
+  </tr>
   <!--
   <tr>
     <td class="tg-tf2e">2 May 2025</td>
