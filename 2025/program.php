@@ -81,7 +81,7 @@ includeMenu();
         <div class="stime">11:30 AM – 1:00 PM</div>
     </div>
     <div class="scolumn-66">
-        <div class="stitle">Lunch & Open Discussion</div>
+        <div class="stitle">Lunch & Open Discussion - Lunch Provided</div>
         <div class="sstitle">Lunch time and open discussion to facilitate networking</div>
     </div> 
 </div>
@@ -194,7 +194,7 @@ includeMenu();
         <div class="stime">11:30 AM – 1:00 PM</div>
     </div>
     <div class="scolumn-66">
-        <div class="stitle">Lunch & Open Discussion</div>
+        <div class="stitle">Lunch & Open Discussion - Lunch Provided</div>
         <div class="sstitle">Lunch time and open discussion to facilitate networking</div>
     </div> 
 </div>
