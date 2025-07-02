@@ -95,7 +95,7 @@ includeMenu();
     <div class="scolumn-66">
         <div class="stitle">Academic Keynote</div><br/>
         <div class="ssstitle" style="border-bottom: 0px"><a href="https://maddah.umn.edu/" target="_blank">Prof. Mohammad Ali Maddah-Ali</a> (Associate Professor at the University of Minnesota Twin Cities)</div>
-        <div class="sstitle">Title: To be posted soon</div>
+        <div class="sstitle">Title: Game of Coding: Enabling Decentralized ML via Approximate Computing Outsourcing</div>
     </div> 
 </div>
 
