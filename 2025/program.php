@@ -28,7 +28,10 @@ includeMenu();
     <div class="scolumn-66">
         <div class="stitle">Academic Keynote</div><br/>
         <div class="ssstitle" style="border-bottom: 0px"><a href="https://www.eecg.toronto.edu/~jacobsen/" target="_blank">Prof. Hans-Arno Jacobsen</a> (Full Professor at the University of Toronto, Jeffrey Skoll Chair in Computer Networks and Innovation)</div>
-        <div class="sstitle">Title: The Renaissance of Byzantine Fault Tolerance: Revolutionizing Consensus Architecture for Pervasive Decentralized Systems</div>
+        <div class="sstitle" style="margin-bottom: 5px;"><strong><i>Title:</i></strong></div>
+        <div class="sstitle" style="font-style: italic; margin-left: 20px; margin-bottom: 10px;">The Renaissance of Byzantine Fault Tolerance: Revolutionizing Consensus Architecture for Pervasive Decentralized Systems</div>
+        <div class="sstitle" style="margin-bottom: 5px;"><strong><i>Abstract:</i></strong></div>
+        <div class="sstitle" style="text-align: justify; margin-left: 20px; font-size: 0.95em; line-height: 1.5;">Byzantine fault-tolerant consensus algorithms serve as the bedrock for decentralized applications (dApps) and distributed ledgers, providing the necessary foundations for their correctness and continuity, even in the face of hostile and arbitrary failure conditions. However, more than ever, today's dApps demand scalability, which traditional consensus algorithms often struggle to achieve. Moreover, emerging applications present new requirements that were previously overlooked in consensus designs. In this talk, we first provide an introductory overview of consensus, highlighting its significance for decentralized systems. We then address the need for scalability by introducing PrestigeBFT, a new algorithm that incorporates a reputation mechanism for each consensus-seeking node. Our design demonstrates an impressive 5X performance improvement over contemporaries. Furthermore, we introduce VGuard, a novel distributed ledger and consensus algorithm, explicitly designed to support dynamic membership changes. This feature is particularly vital for dApps catering to vehicular networking or low-orbit satellite scenarios, where the set of agreement-seeking nodes experiences frequent fluctuations. VGuard's peak throughput is up to 22X higher than that of popular contemporaries.</div>
     </div> 
 </div>
 
@@ -95,7 +98,10 @@ includeMenu();
     <div class="scolumn-66">
         <div class="stitle">Academic Keynote</div><br/>
         <div class="ssstitle" style="border-bottom: 0px"><a href="https://maddah.umn.edu/" target="_blank">Prof. Mohammad Ali Maddah-Ali</a> (Associate Professor at the University of Minnesota Twin Cities)</div>
-        <div class="sstitle">Title: Game of Coding: Enabling Decentralized ML via Approximate Computing Outsourcing</div>
+        <div class="sstitle" style="margin-bottom: 5px;"><strong><i>Title:</i></strong></div>
+        <div class="sstitle" style="font-style: italic; margin-left: 20px; margin-bottom: 10px;">Game of Coding: Enabling Decentralized ML via Approximate Computing Outsourcing</div>
+        <div class="sstitle" style="margin-bottom: 5px;"><strong><i>Abstract:</i></strong></div>
+        <div class="sstitle" style="text-align: justify; margin-left: 20px; font-size: 0.95em; line-height: 1.5;">The decentralization movement, which emerged in 2008 with the success of Bitcoin, aims to revolutionize digital platforms by making them transparent and open to the public for coordination, contribution, and verification. This movement is currently reshaping the AI landscape, with a focus on designing decentralized machine learning (DeML) platforms. However, blockchains, as decentralized trust engines, face limitations in computational power, which hinder this transformation. In this talk, we will begin by reviewing the potential of blockchain technology in enabling distributed computing platforms, as well as its inherent limitations. We will then examine why existing solutions, such as verifiable computation (validity proofs) and optimistic outsourcing, are inadequate for large-scale and approximate machine learning tasks. As an alternative, we will introduce the game of coding, a novel framework that harnesses the power of redundant (coded) computing to efficiently detect and correct errors in outsourced computations. This approach leverages the rational behavior of potential adversaries to extend the applicability of coding theory to trust-minimized environments, even when the majority of external nodes may be dishonest.</div>
     </div> 
 </div>
 
@@ -145,7 +151,10 @@ includeMenu();
     <div class="scolumn-66">
         <div class="stitle">Academic Keynote</div><br/>
         <div class="ssstitle" style="border-bottom: 0px"><a href="https://uwaterloo.ca/electrical-computer-engineering/profile/wgolab" target="_blank">Prof. Wojciech Golab</a> (Full Professor at the University of Waterloo)</div>
-        <div class="sstitle">Tentative Title: Towards Scalable Consensus for Blockchains</div>
+        <div class="sstitle" style="margin-bottom: 5px;"><strong><i>Title:</i></strong></div>
+        <div class="sstitle" style="font-style: italic; margin-left: 20px; margin-bottom: 10px;">Towards Scalable Consensus for Blockchains</div>
+        <div class="sstitle" style="margin-bottom: 5px;"><strong><i>Abstract:</i></strong></div>
+        <div class="sstitle" style="text-align: justify; margin-left: 20px; font-size: 0.95em; line-height: 1.5;">Consensus is a fundamental and widely studied coordination problem whose solution ensures consistency of data replicas in distributed storage systems, databases, and blockchains. Classical Paxos-like consensus protocols limit system scalability due to a single leader, and more sophisticated modern protocols struggle to exploit parallelism while processing conflicting proposals. This talk will describe the Antipaxos protocol, which reaches agreement on a collection of conflict-prone proposals using an efficient leaderless fast path when the environment is synchronous and failure-free, falling back on a more elaborate slow path to handle challenging cases involving delayed messages, process failures, and network partitions. The main safety property of Antipaxos is formalized as a new agreement problem called k-Interactive Consistency (k-IC). The talk will present a solution to this problem for the Byzantine failure model, its experimental performance evaluation in the Amazon cloud, and an overview of ongoing efforts to improve scalability further using a hierarchical network overlay.</div>
     </div> 
 </div>
 
@@ -182,7 +191,7 @@ includeMenu();
         <div class="stitle">Short Research Talks</div><br/>
         <div class="ssstitle" style="border-bottom: 0px"><a href="https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/about-us/people-finder/profile/?pid=6252" target="_blank">Hongyan Sun</a>, Lucerne University of Applied Sciences and Arts, "A Blockchain Based Decentralized Machine Learning Platform with Data Privacy"</div>
         <div class="ssstitle" style="border-bottom: 0px">Jiho Lee, Sejong University, "Research on Standards-based Blockchain and IoT Integration"</div>
-        <div class="ssstitle" style="border-bottom: 0px"><a href="https://ischool.ubc.ca/profile/danielle-batista/" target="_blank">Danielle Batista</a>, University of British Columbia, "Securing Brazil’s Public Procurement with Blockchain and Smart Contracts"</div>
+        <div class="ssstitle" style="border-bottom: 0px"><a href="https://ischool.ubc.ca/profile/danielle-batista/" target="_blank">Danielle Batista</a>, University of British Columbia, "Securing Brazil’s Public Procurement with Blockchain Features"</div>
         <div class="ssstitle" style="border-bottom: 0px"><a href="https://engineering.ok.ubc.ca/about/contact/mahsa-mohammadi/" target="_blank">Mahsa Mohammadi</a>, University of British Columbia, "From NAFTA to Blockchain: Transforming North American Supply Chains for Efficiency and Sustainability"</div>
     </div> 
 </div>
